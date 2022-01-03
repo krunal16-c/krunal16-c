@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Krunal Chavda
-- 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web development📲, Robots🤖 and Aerospace engineering🚀.
+- 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web application📲, Robots🤖 and Aerospace Engineering🚀.
 - 🌱 I’m currently learning Machine learning and its application, and using Blockchain for financial markets.
 - 💞️ I’m looking to collaborate on various interesting projects that come on my way especially in AI and Blockchain.
 - 📫 To reach out to me you can email me at krunalchavdaofficial13@gmail.com
