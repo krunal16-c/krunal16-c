@@ -7,17 +7,8 @@ My name is Krunal Chavda and I am a second-year computer engineering student at 
 <br>
 <br>
 On my GitHub profile, you will find a variety of projects that I have worked on. These projects range from small personal projects to coursework assignments, and they showcase my abilities in various programming languages and technologies.
-
-Some of the programming languages and technologies that I am proficient in include:
-
-- C/C++
-- Java
-- Python
-- HTML/CSS/JavaScript
-- Kotlin
-- Dart
-- Google Cloud
-
+<br>
+<br>
 I am always looking for new opportunities to learn and grow, so please feel free to reach out to me if you have any suggestions or opportunities for collaboration.
 
 Thank you for visiting my profile, and I hope you find my projects interesting and informative!
