@@ -1,8 +1,26 @@
-- 👋 Hi, my name is Krunal Chavda
-- 👀 I’m interested in AI💻, Blockchain⛓, Mobile and Web application📲, Robots🤖 and Aerospace Engineering🚀.
-- 🌱 I’m currently learning Machine learning and its application, and using Blockchain for financial markets.
-- 💞️ I’m looking to collaborate on various interesting projects that come on my way especially in AI and Blockchain.
-- 📫 To reach out to me you can email me at krunalchavdaofficial13@gmail.com
+# Krunal's GitHub Profile<br>
+<br>
+Hi there!
+<br>
+<br>
+My name is Krunal Chavda and I am a second-year computer engineering student at University of Saskatchewan. I am passionate about software development,data science, deep learning and embedded systems development and constantly striving to learn new technologies and improve my skills.
+<br>
+<br>
+On my GitHub profile, you will find a variety of projects that I have worked on. These projects range from small personal projects to coursework assignments, and they showcase my abilities in various programming languages and technologies.
+
+Some of the programming languages and technologies that I am proficient in include:
+
+- C/C++
+- Java
+- Python
+- HTML/CSS/JavaScript
+- Kotlin
+- Dart
+- Google Cloud
+
+I am always looking for new opportunities to learn and grow, so please feel free to reach out to me if you have any suggestions or opportunities for collaboration.
+
+Thank you for visiting my profile, and I hope you find my projects interesting and informative!
 
 <!---
 krunal16-c/krunal16-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
