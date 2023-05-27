@@ -3,7 +3,7 @@
 Hi there!
 <br>
 <br>
-My name is Krunal Chavda and I am a second-year computer engineering student at University of Saskatchewan. I am passionate about software development,data science, deep learning and embedded systems development and constantly striving to learn new technologies and improve my skills.
+My name is Krunal Chavda and I am a third-year computer engineering student at University of Saskatchewan. I am passionate about software development,data science, deep learning and embedded systems development and constantly striving to learn new technologies and improve my skills.
 <br>
 <br>
 On my GitHub profile, you will find a variety of projects that I have worked on. These projects range from small personal projects to coursework assignments, and they showcase my abilities in various programming languages and technologies.
